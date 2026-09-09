@@ -2,7 +2,7 @@
 
 BugBot is a small robot for learning real robotics: a camera, a depth sensor, an inertial sensor and an optical-flow sensor on a three-board stack that slides across its mat on vibration motors, programmed in Python. The same program runs on the robot or in the simulator in your browser.
 
-Site and lessons: [bugbotlab.com/bugbot](https://www.bugbotlab.com/bugbot-docs/)
+Site and lessons: [bugbotlab.com/bugbot-docs](https://www.bugbotlab.com/bugbot-docs/)
 
 | Repository | What it is |
 |---|---|
