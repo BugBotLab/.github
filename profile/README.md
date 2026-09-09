@@ -7,7 +7,7 @@ Site and lessons: [bugbotlab.com/bugbot-docs](https://www.bugbotlab.com/bugbot-d
 | Repository | What it is |
 |---|---|
 | [bugbot-docs](https://github.com/BugBotLab/bugbot-docs) | the website: getting started, lessons, hardware, reference |
-| [bugbot-ide](https://github.com/BugBotLab/bugbot-ide) | the online IDE and simulator: write a program, run it on a robot over USB or in 3D in the browser |
+| [bugbot-ide](https://github.com/BugBotLab/bugbot-ide) | the online IDE and simulator ([open it](https://www.bugbotlab.com/bugbot-ide/web/)): write a program, run it on a robot over USB or in 3D in the browser |
 | [bugbot-firmware](https://github.com/BugBotLab/bugbot-firmware) | the robot's C firmware with its Python layer, and the dongle firmware |
 | [bugbot-python](https://github.com/BugBotLab/bugbot-python) | the laptop library that controls a robot through the dongle |
 | [bugbot-hardware](https://github.com/BugBotLab/bugbot-hardware) | schematics, bill of materials, 3D models, assembly, and the circuit simulation of the stack |
